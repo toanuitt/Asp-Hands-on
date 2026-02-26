@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetHandons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97275f7c9538e8728d11baaba2051ec3d6208d72")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetHandons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetHandons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
